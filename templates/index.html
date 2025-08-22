@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mardi Gras Glossary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #6B46C1, #F59E0B, #10B981);
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        h1 {
+            color: #6B46C1;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin: 30px 0;
+            text-align: center;
+        }
+        .stat-box {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #6B46C1;
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #6B46C1;
+        }
+        .featured-term {
+            background: linear-gradient(45deg, #F59E0B, #10B981);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            margin: 30px 0;
+        }
+        .api-links {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+        .api-link {
+            display: block;
+            color: #6B46C1;
+            text-decoration: none;
+            padding: 10px;
+            border: 1px solid #6B46C1;
+            border-radius: 5px;
+            margin: 5px 0;
+            text-align: center;
+        }
+        .api-link:hover {
+            background: #6B46C1;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎭 Mardi Gras Glossary</h1>
+        
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-number">{{ stats.total_terms }}</div>
+                <div>Total Terms</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">{{ stats.total_categories }}</div>
+                <div>Categories</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-number">{{ stats.total_views }}</div>
+                <div>Total Views</div>
+            </div>
+        </div>
+
+        {% if featured_term %}
+        <div class="featured-term">
+            <h2>🌟 Featured Term: {{ featured_term.term }}</h2>
+            <p><strong>Pronunciation:</strong> {{ featured_term.pronunciation }}</p>
+            <p><strong>Definition:</strong> {{ featured_term.definition }}</p>
+            {% if featured_term.example %}
+            <p><strong>Example:</strong> "{{ featured_term.example }}"</p>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        <div class="api-links">
+            <h3>🔍 Explore Your Glossary:</h3>
+            <a href="/api/terms" class="api-link">View All Terms (JSON)</a>
+            <a href="/api/categories" class="api-link">View All Categories (JSON)</a>
+            <a href="/api/random" class="api-link">Get Random Term (JSON)</a>
+            <a href="/api/stats" class="api-link">View Statistics (JSON)</a>
+        </div>
+
+        <div style="margin-top: 30px;">
+            <h3>🎉 Success!</h3>
+            <p>Your Mardi Gras Glossary backend is working perfectly!</p>
+        </div>
+    </div>
+</body>
+</html>
