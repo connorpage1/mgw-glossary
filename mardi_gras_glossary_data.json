@@ -1,0 +1,1004 @@
+{
+  "categories": [
+    {
+      "name": "Core Terms",
+      "icon": "⭐",
+      "description": "Essential Carnival vocabulary"
+    },
+    {
+      "name": "Krewes",
+      "icon": "👑",
+      "description": "Carnival organizations and societies"
+    },
+    {
+      "name": "Food & Drink",
+      "icon": "🎂",
+      "description": "Traditional Carnival cuisine"
+    },
+    {
+      "name": "Throws",
+      "icon": "📿",
+      "description": "Items thrown from parade floats"
+    },
+    {
+      "name": "Parades",
+      "icon": "🎪",
+      "description": "Parade terminology and logistics"
+    },
+    {
+      "name": "Music & Culture",
+      "icon": "🎵",
+      "description": "Musical traditions and performances"
+    },
+    {
+      "name": "Local Slang",
+      "icon": "💬",
+      "description": "New Orleans expressions and dialect"
+    },
+    {
+      "name": "Culture",
+      "icon": "🎨",
+      "description": "Cultural traditions and practices"
+    },
+    {
+      "name": "Locations",
+      "icon": "📍",
+      "description": "Important Carnival venues and routes"
+    },
+    {
+      "name": "Viewing",
+      "icon": "👀",
+      "description": "Parade watching and etiquette"
+    },
+    {
+      "name": "Balls & Events",
+      "icon": "🎩",
+      "description": "Formal Carnival celebrations"
+    },
+    {
+      "name": "Royalty & Titles",
+      "icon": "👑",
+      "description": "Carnival hierarchy and honors"
+    },
+    {
+      "name": "Regional",
+      "icon": "🌎",
+      "description": "Carnival celebrations across the region"
+    },
+    {
+      "name": "Tourism",
+      "icon": "✈️",
+      "description": "Visitor information and services"
+    },
+    {
+      "name": "Seasonal",
+      "icon": "📅",
+      "description": "Carnival calendar and timing"
+    },
+    {
+      "name": "Historical",
+      "icon": "📜",
+      "description": "Carnival history and evolution"
+    }
+  ],
+  "terms": [
+    {
+      "term": "Mardi Gras",
+      "pronunciation": "MAR-dee GRAH",
+      "category": "Core Terms",
+      "difficulty": "tourist",
+      "definition": "French for 'Fat Tuesday,' the culminating day of Carnival season before Ash Wednesday and the start of Lent.",
+      "etymology": "From French 'mardi' (Tuesday) and 'gras' (fat)",
+      "example": "Mardi Gras is celebrated with parades, balls, and feasting before the fasting period of Lent begins."
+    },
+    {
+      "term": "Krewe",
+      "pronunciation": "KROO",
+      "category": "Core Terms",
+      "difficulty": "tourist",
+      "definition": "An organized group that puts on a parade or ball during Carnival season. Each krewe has its own theme, colors, and traditions.",
+      "etymology": "Intentional misspelling of 'crew' popularized by the Krewe of Comus in 1857",
+      "example": "The Krewe of Rex is known as the 'King of Carnival' and parades on Mardi Gras day."
+    },
+    {
+      "term": "Carnival",
+      "pronunciation": "KAHR-nih-val",
+      "category": "Core Terms",
+      "difficulty": "tourist",
+      "definition": "The entire season of festivities leading up to Mardi Gras, beginning on Twelfth Night (January 6th).",
+      "etymology": "From Latin 'carne vale' meaning 'farewell to meat'",
+      "example": "Carnival season features dozens of parades, balls, and celebrations across the Gulf Coast."
+    },
+    {
+      "term": "Fat Tuesday",
+      "pronunciation": "FAT TOOZ-day",
+      "category": "Core Terms",
+      "difficulty": "tourist",
+      "definition": "English translation of Mardi Gras, referring to the tradition of eating rich foods before Lent.",
+      "etymology": "Direct translation from French 'Mardi Gras'",
+      "example": "Fat Tuesday gets its name from the custom of eating fatty foods before the fasting of Lent."
+    },
+    {
+      "term": "Twelfth Night",
+      "pronunciation": "TWELFTH NITE",
+      "category": "Core Terms",
+      "difficulty": "local",
+      "definition": "January 6th, the Feast of the Epiphany, marking the official start of Carnival season.",
+      "etymology": "Twelve days after Christmas, celebrating the visit of the Magi",
+      "example": "Twelfth Night parties traditionally feature the first king cakes of the season."
+    },
+    {
+      "term": "Ash Wednesday",
+      "pronunciation": "ASH WENZ-day",
+      "category": "Core Terms",
+      "difficulty": "tourist",
+      "definition": "The day after Mardi Gras, marking the beginning of Lent and the end of Carnival season.",
+      "etymology": "Named for the ashes placed on foreheads during Catholic services",
+      "example": "Ash Wednesday brings a somber end to the joyous celebration of Carnival."
+    },
+    {
+      "term": "Lent",
+      "pronunciation": "LENT",
+      "category": "Core Terms",
+      "difficulty": "tourist",
+      "definition": "The 40-day period of fasting and penance before Easter, beginning on Ash Wednesday.",
+      "etymology": "From Old English 'lencten' meaning springtime",
+      "example": "Carnival celebrations are meant to enjoy rich foods before the fasting of Lent begins."
+    },
+    {
+      "term": "Rex",
+      "pronunciation": "REKS",
+      "category": "Krewes",
+      "difficulty": "tourist",
+      "definition": "The 'King of Carnival,' this prestigious krewe parades on Mardi Gras day and established many Carnival traditions.",
+      "etymology": "Latin for 'king'; krewe founded in 1872",
+      "example": "Rex established the official Carnival colors of purple, gold, and green."
+    },
+    {
+      "term": "Zulu",
+      "pronunciation": "ZOO-loo",
+      "category": "Krewes",
+      "difficulty": "tourist",
+      "definition": "Historic African American krewe famous for throwing painted coconuts and founded as the Zulu Social Aid & Pleasure Club.",
+      "etymology": "Named after Zulu warriors; founded in 1916",
+      "example": "Zulu coconuts are among the most prized throws in all of Mardi Gras."
+    },
+    {
+      "term": "Bacchus",
+      "pronunciation": "BAHK-us",
+      "category": "Krewes",
+      "difficulty": "tourist",
+      "definition": "Super krewe known for celebrity monarchs and spectacular floats. Founded in 1968, it helped revolutionize modern Carnival.",
+      "etymology": "Named after Roman god of wine; founded by Owen Brennan Jr.",
+      "example": "Bacchus was the first krewe to use celebrity kings like Bob Hope and Kirk Douglas."
+    },
+    {
+      "term": "Endymion",
+      "pronunciation": "en-DIM-ee-on",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Massive super krewe known for having the longest parade route and most riders. Parades on Saturday before Mardi Gras.",
+      "etymology": "Named after Greek mythological shepherd loved by moon goddess Selene",
+      "example": "Endymion's parade can take over four hours to pass a single point."
+    },
+    {
+      "term": "Comus",
+      "pronunciation": "KOH-mus",
+      "category": "Krewes",
+      "difficulty": "expert",
+      "definition": "The oldest continuously active Carnival organization, founded in 1857. Created many modern Mardi Gras traditions.",
+      "etymology": "Named after Roman god of festivity and revelry",
+      "example": "The Krewe of Comus established the tradition of themed floats and masked balls."
+    },
+    {
+      "term": "Proteus",
+      "pronunciation": "PROH-tee-us",
+      "category": "Krewes",
+      "difficulty": "expert",
+      "definition": "Traditional old-line krewe founded in 1882, known for elaborate mythological themes.",
+      "etymology": "Named after Greek sea god who could change shape",
+      "example": "Proteus parades always feature intricate floats depicting classical mythology."
+    },
+    {
+      "term": "Orpheus",
+      "pronunciation": "OR-fee-us",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Super krewe founded by Harry Connick Jr. in 1993, known for musical themes and celebrity participation.",
+      "etymology": "Named after legendary musician from Greek mythology",
+      "example": "Orpheus always features musical themes and performances during their parade."
+    },
+    {
+      "term": "Tucks",
+      "pronunciation": "TUKS",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Satirical krewe known for humorous, irreverent floats and throws. Famous for toilet paper throws.",
+      "etymology": "Named after Friar Tuck from Robin Hood legends",
+      "example": "Tucks throws toilet paper along with beads, creating a unique parade experience."
+    },
+    {
+      "term": "Muses",
+      "pronunciation": "MYOO-zez",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "All-female super krewe known for throwing decorated shoes and artistic themed floats.",
+      "etymology": "Named after nine goddesses of arts and sciences in Greek mythology",
+      "example": "Muses throws are highly sought after, especially their hand-decorated shoes."
+    },
+    {
+      "term": "Iris",
+      "pronunciation": "EYE-ris",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "All-female krewe founded in 1917, one of the oldest women's organizations in Carnival.",
+      "etymology": "Named after Greek goddess of the rainbow",
+      "example": "Iris was a pioneer in establishing women's participation in Carnival parades."
+    },
+    {
+      "term": "Thoth",
+      "pronunciation": "THOTH",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Family-friendly krewe known for their Sunday parade route through Uptown New Orleans.",
+      "etymology": "Named after Egyptian god of wisdom and writing",
+      "example": "Thoth's parade is perfect for families with young children."
+    },
+    {
+      "term": "Momus",
+      "pronunciation": "MOH-mus",
+      "category": "Krewes",
+      "difficulty": "expert",
+      "definition": "Traditional old-line krewe founded in 1872, known for satirical and humorous themes.",
+      "etymology": "Named after Greek god of satire and mockery",
+      "example": "Momus floats often feature clever social and political commentary."
+    },
+    {
+      "term": "Hermes",
+      "pronunciation": "HER-meez",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Traditional krewe founded in 1937, known for elaborate mythological themes and Friday night parades.",
+      "etymology": "Named after Greek messenger god",
+      "example": "Hermes features some of the most intricate mythological storytelling in their float designs."
+    },
+    {
+      "term": "Krewe du Vieux",
+      "pronunciation": "KROO doo VEE-uh",
+      "category": "Krewes",
+      "difficulty": "expert",
+      "definition": "Satirical walking krewe known for adult humor and political satire, parading through the French Quarter.",
+      "etymology": "French for 'Krewe of the Old,' referring to the Vieux Carré",
+      "example": "Krewe du Vieux pushes the boundaries with irreverent floats and adult-themed throws."
+    },
+    {
+      "term": "Krewe of Barkus",
+      "pronunciation": "KROO uv BAR-kus",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Parade featuring costumed dogs and their owners, a beloved family-friendly Carnival tradition.",
+      "etymology": "Play on 'Bacchus' with 'bark' for dogs",
+      "example": "Krewe of Barkus features hundreds of costumed dogs walking with their families."
+    },
+    {
+      "term": "Krewe of Nyx",
+      "pronunciation": "KROO uv NIKS",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "All-female super krewe known for throwing purses and empowering women in Carnival.",
+      "etymology": "Named after Greek goddess of night",
+      "example": "Krewe of Nyx throws decorated purses, making them highly sought-after catches."
+    },
+    {
+      "term": "Super Krewe",
+      "pronunciation": "SOO-per KROO",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Large, well-funded krewes with elaborate floats, celebrity monarchs, and massive parades (like Bacchus, Endymion, Orpheus).",
+      "etymology": "Term coined in 1960s-70s for new large-scale krewes",
+      "example": "Super krewes changed Carnival by creating Hollywood-style spectacles with famous grand marshals."
+    },
+    {
+      "term": "Throws",
+      "pronunciation": "THROHZ",
+      "category": "Throws",
+      "difficulty": "tourist",
+      "definition": "Items tossed from parade floats to spectators, including beads, doubloons, cups, and specialty items.",
+      "etymology": "From the practice of throwing trinkets to crowds, dating to 1870s",
+      "example": "Popular throws include plastic beads, aluminum doubloons, and decorated cups."
+    },
+    {
+      "term": "Beads",
+      "pronunciation": "BEEDZ",
+      "category": "Throws",
+      "difficulty": "tourist",
+      "definition": "Colorful plastic necklaces, the most common Mardi Gras throw. Come in various lengths and styles.",
+      "etymology": "Evolved from glass beads used in early 1900s parades",
+      "example": "Carnival beads range from simple plastic strands to elaborate specialty designs."
+    },
+    {
+      "term": "Doubloons",
+      "pronunciation": "duh-BLOONZ",
+      "category": "Throws",
+      "difficulty": "local",
+      "definition": "Aluminum coins thrown from floats, usually featuring the krewe's emblem and the year. Collectors prize vintage and rare doubloons.",
+      "etymology": "Named after Spanish gold coins; first used by Krewe of Rex in 1960",
+      "example": "Some doubloons from the 1960s and 1970s are worth hundreds of dollars to collectors."
+    },
+    {
+      "term": "Coconuts",
+      "pronunciation": "KOH-kuh-nuts",
+      "category": "Throws",
+      "difficulty": "local",
+      "definition": "Hand-painted coconuts thrown exclusively by the Zulu Social Aid & Pleasure Club, considered the most prized Mardi Gras throw.",
+      "etymology": "Tradition began in early 1900s as Zulu's signature throw",
+      "example": "Catching a Zulu coconut is considered the ultimate Mardi Gras achievement."
+    },
+    {
+      "term": "Cups",
+      "pronunciation": "KUPS",
+      "category": "Throws",
+      "difficulty": "tourist",
+      "definition": "Plastic cups with krewe logos and parade themes, popular throws that serve as practical souvenirs.",
+      "etymology": "Became popular throws in 1980s as practical alternatives to beads",
+      "example": "Parade cups often feature the year and krewe emblem, making them popular keepsakes."
+    },
+    {
+      "term": "Medallion Beads",
+      "pronunciation": "meh-DAL-yon BEEDZ",
+      "category": "Throws",
+      "difficulty": "local",
+      "definition": "Special beads featuring a decorative medallion or pendant, often more valuable than regular beads.",
+      "etymology": "Evolution of traditional beads with added decorative elements",
+      "example": "Medallion beads featuring krewe emblems are highly sought after by collectors."
+    },
+    {
+      "term": "Stuffed Animals",
+      "pronunciation": "STUFT AN-ih-malz",
+      "category": "Throws",
+      "difficulty": "tourist",
+      "definition": "Plush toys thrown from floats, especially popular with children and families.",
+      "etymology": "Modern addition to traditional throws, popular since 1990s",
+      "example": "Children especially love catching stuffed animals during family-friendly parades."
+    },
+    {
+      "term": "Specialty Throws",
+      "pronunciation": "SPESH-al-tee THROHZ",
+      "category": "Throws",
+      "difficulty": "local",
+      "definition": "Unique items specific to individual krewes, such as Muses shoes, Tucks toilet paper, or themed items.",
+      "etymology": "Modern trend of krewes creating signature throws",
+      "example": "Each krewe develops specialty throws that become their trademark items."
+    },
+    {
+      "term": "King Cake",
+      "pronunciation": "KING KAYK",
+      "category": "Food & Drink",
+      "difficulty": "tourist",
+      "definition": "A traditional oval-shaped cake decorated in purple, gold, and green with a small plastic baby hidden inside. Eaten during Carnival season.",
+      "etymology": "Named for the Biblical three kings; tradition dates to 12th century France",
+      "example": "Whoever finds the baby in the king cake is supposed to host the next party and buy the next cake."
+    },
+    {
+      "term": "Baby",
+      "pronunciation": "BAY-bee",
+      "category": "Food & Drink",
+      "difficulty": "tourist",
+      "definition": "Small plastic figurine hidden inside king cakes. The person who finds it has good luck and must provide the next king cake.",
+      "etymology": "Represents baby Jesus; originally a bean or coin in French tradition",
+      "example": "Finding the baby in your slice of king cake means you get to be king for the day."
+    },
+    {
+      "term": "Beignets",
+      "pronunciation": "ben-YAYS",
+      "category": "Food & Drink",
+      "difficulty": "tourist",
+      "definition": "Square French donuts covered in powdered sugar, a New Orleans breakfast staple especially popular during Carnival.",
+      "etymology": "French word for fritter or doughnut",
+      "example": "No Mardi Gras morning is complete without beignets and café au lait."
+    },
+    {
+      "term": "Jambalaya",
+      "pronunciation": "jam-buh-LIE-ah",
+      "category": "Food & Drink",
+      "difficulty": "tourist",
+      "definition": "Louisiana rice dish with meat, seafood, and vegetables, often served at Carnival gatherings.",
+      "etymology": "From Provençal 'jambalaia' meaning mishmash",
+      "example": "Large pots of jambalaya feed crowds at Mardi Gras parties and tailgates."
+    },
+    {
+      "term": "Gumbo",
+      "pronunciation": "GUM-boh",
+      "category": "Food & Drink",
+      "difficulty": "tourist",
+      "definition": "Thick Louisiana stew served over rice, popular comfort food during Carnival season.",
+      "etymology": "From West African word 'ki ngombo' for okra",
+      "example": "Gumbo warms up cold parade-goers during chilly Mardi Gras evenings."
+    },
+    {
+      "term": "Po' Boy",
+      "pronunciation": "POH-boy",
+      "category": "Food & Drink",
+      "difficulty": "local",
+      "definition": "New Orleans submarine sandwich on French bread, often eaten during parade breaks.",
+      "etymology": "From 'poor boy,' sandwich created during 1929 streetcar strike",
+      "example": "A fried oyster po' boy is the perfect fuel for a long day of parade watching."
+    },
+    {
+      "term": "Hurricane",
+      "pronunciation": "HUR-ih-kane",
+      "category": "Food & Drink",
+      "difficulty": "tourist",
+      "definition": "Sweet rum cocktail served in a hurricane glass, invented at Pat O'Brien's in the French Quarter.",
+      "etymology": "Named for the hurricane-shaped glass it's served in",
+      "example": "Tourists often start their Mardi Gras experience with a Hurricane on Bourbon Street."
+    },
+    {
+      "term": "Sazerac",
+      "pronunciation": "SAZ-eh-rak",
+      "category": "Food & Drink",
+      "difficulty": "local",
+      "definition": "New Orleans' official cocktail made with rye whiskey, absinthe, and Peychaud's bitters.",
+      "etymology": "Named after Sazerac de Forge et Fils cognac originally used",
+      "example": "Locals prefer Sazeracs to sweeter tourist drinks during Carnival celebrations."
+    },
+    {
+      "term": "Café au Lait",
+      "pronunciation": "ka-FAY oh LAY",
+      "category": "Food & Drink",
+      "difficulty": "local",
+      "definition": "New Orleans coffee with chicory and hot milk, traditionally paired with beignets.",
+      "etymology": "French for 'coffee with milk'",
+      "example": "Café au lait and beignets are the perfect start to a Mardi Gras morning."
+    },
+    {
+      "term": "Pralines",
+      "pronunciation": "PRAH-leens",
+      "category": "Food & Drink",
+      "difficulty": "local",
+      "definition": "Sweet candies made with sugar, cream, and pecans, popular New Orleans confection.",
+      "etymology": "Named after French diplomat César de Choiseul, comte du Plessis-Praslin",
+      "example": "Street vendors sell fresh pralines to parade crowds throughout Carnival season."
+    },
+    {
+      "term": "Bananas Foster",
+      "pronunciation": "bah-NAN-az FOS-ter",
+      "category": "Food & Drink",
+      "difficulty": "local",
+      "definition": "Flambéed dessert with bananas, rum, and ice cream, created at Brennan's Restaurant.",
+      "etymology": "Named after Richard Foster, friend of restaurant owner Owen Brennan",
+      "example": "Bananas Foster is a spectacular end to a fancy Carnival dinner."
+    },
+    {
+      "term": "Float",
+      "pronunciation": "FLOHT",
+      "category": "Parades",
+      "difficulty": "tourist",
+      "definition": "Decorated platform on wheels carrying krewe members and throws, the centerpiece of Mardi Gras parades.",
+      "etymology": "From the appearance of 'floating' decorations",
+      "example": "Each float in a parade typically follows a specific theme chosen by the krewe."
+    },
+    {
+      "term": "Riders",
+      "pronunciation": "RIE-derz",
+      "category": "Parades",
+      "difficulty": "tourist",
+      "definition": "Krewe members who ride on floats and throw items to the crowd.",
+      "etymology": "From riding on the floats during parades",
+      "example": "Float riders are required to wear masks to maintain the mystery of Carnival."
+    },
+    {
+      "term": "Maskers",
+      "pronunciation": "MASK-erz",
+      "category": "Parades",
+      "difficulty": "local",
+      "definition": "Krewe members who wear masks during parades and balls to maintain anonymity.",
+      "etymology": "From the tradition of wearing masks during Carnival",
+      "example": "Maskers cannot reveal their identities during official Carnival events."
+    },
+    {
+      "term": "Flambeaux",
+      "pronunciation": "flam-BOH",
+      "category": "Parades",
+      "difficulty": "local",
+      "definition": "Traditional torchbearers who carry flaming torches and dance alongside parades.",
+      "etymology": "French word for torch or flame",
+      "example": "Flambeaux carriers create a magical atmosphere as they dance before the floats."
+    },
+    {
+      "term": "Captain",
+      "pronunciation": "KAP-tin",
+      "category": "Parades",
+      "difficulty": "local",
+      "definition": "Leader of a krewe who organizes the parade and ball, often serving for life.",
+      "etymology": "Naval rank adopted for krewe leadership structure",
+      "example": "The krewe captain makes all major decisions about themes, floats, and membership."
+    },
+    {
+      "term": "Den",
+      "pronunciation": "DEN",
+      "category": "Parades",
+      "difficulty": "local",
+      "definition": "Workshop where krewe floats are built and stored year-round.",
+      "etymology": "From the secret, cave-like nature of float construction",
+      "example": "Mardi Gras World is the most famous den, building floats for multiple krewes."
+    },
+    {
+      "term": "Rolling",
+      "pronunciation": "ROH-ling",
+      "category": "Parades",
+      "difficulty": "local",
+      "definition": "Local term for when a parade is actively moving through its route.",
+      "etymology": "From the rolling motion of floats and wheels",
+      "example": "The parade is rolling down St. Charles Avenue right on schedule."
+    },
+    {
+      "term": "Route",
+      "pronunciation": "ROOT",
+      "category": "Parades",
+      "difficulty": "tourist",
+      "definition": "The designated path a parade follows through the city streets.",
+      "etymology": "From French 'route' meaning road or way",
+      "example": "The traditional Uptown route follows St. Charles Avenue to Canal Street."
+    },
+    {
+      "term": "Theme",
+      "pronunciation": "THEEM",
+      "category": "Parades",
+      "difficulty": "tourist",
+      "definition": "The central concept that unifies all floats in a krewe's parade.",
+      "etymology": "From Greek 'thema' meaning proposition",
+      "example": "Each year's parade theme determines the design and decoration of all floats."
+    },
+    {
+      "term": "St. Charles Avenue",
+      "pronunciation": "SAINT CHAR-lz AV-eh-noo",
+      "category": "Locations",
+      "difficulty": "tourist",
+      "definition": "The most famous parade route in New Orleans, featuring historic mansions and the streetcar line.",
+      "etymology": "Named after King Charles III of Spain",
+      "example": "St. Charles Avenue is lined with families watching parades from mansion balconies."
+    },
+    {
+      "term": "Canal Street",
+      "pronunciation": "kah-NAL STREET",
+      "category": "Locations",
+      "difficulty": "tourist",
+      "definition": "Major New Orleans thoroughfare where most parades end, dividing the French Quarter from downtown.",
+      "etymology": "Originally planned to be a canal connecting the river to Lake Pontchartrain",
+      "example": "Parades traditionally end on Canal Street with the greatest concentration of crowds."
+    },
+    {
+      "term": "French Quarter",
+      "pronunciation": "FRENCH KWAR-ter",
+      "category": "Locations",
+      "difficulty": "tourist",
+      "definition": "Historic New Orleans neighborhood known for Bourbon Street and Jackson Square, hub of Carnival activity.",
+      "etymology": "Original French colonial settlement, also called Vieux Carré",
+      "example": "The French Quarter comes alive during Mardi Gras with street performers and revelers."
+    },
+    {
+      "term": "Bourbon Street",
+      "pronunciation": "BUR-bon STREET",
+      "category": "Locations",
+      "difficulty": "tourist",
+      "definition": "Famous party street in the French Quarter, known for bars, music, and Carnival revelry.",
+      "etymology": "Named after the royal House of Bourbon",
+      "example": "Bourbon Street is packed with costumed revelers during Mardi Gras weekend."
+    },
+    {
+      "term": "Jackson Square",
+      "pronunciation": "JACK-son SKWARE",
+      "category": "Locations",
+      "difficulty": "tourist",
+      "definition": "Historic park in the French Quarter with St. Louis Cathedral, popular gathering spot during Carnival.",
+      "etymology": "Named after General Andrew Jackson",
+      "example": "Street performers and artists fill Jackson Square during Mardi Gras celebrations."
+    },
+    {
+      "term": "Mardi Gras World",
+      "pronunciation": "MAR-dee GRAH WURLD",
+      "category": "Locations",
+      "difficulty": "local",
+      "definition": "Blaine Kern's studio where many Carnival floats are designed and built, open for tours.",
+      "etymology": "Named for being the center of Mardi Gras float creation",
+      "example": "Mardi Gras World offers behind-the-scenes tours of float construction year-round."
+    },
+    {
+      "term": "Second Line",
+      "pronunciation": "SEK-und LINE",
+      "category": "Music & Culture",
+      "difficulty": "local",
+      "definition": "A brass band parade where spectators become participants, following behind the musicians.",
+      "etymology": "Term originated in New Orleans jazz funeral processions",
+      "example": "A second line forms spontaneously as people join the dancing procession."
+    },
+    {
+      "term": "Brass Band",
+      "pronunciation": "BRASS BAND",
+      "category": "Music & Culture",
+      "difficulty": "local",
+      "definition": "Traditional New Orleans musical ensemble featuring brass instruments and percussion.",
+      "etymology": "From the brass instruments that dominate the ensemble",
+      "example": "Brass bands provide musical accompaniment for many Carnival parades and second lines."
+    },
+    {
+      "term": "Jazz Funeral",
+      "pronunciation": "JAZ FYOO-ner-al",
+      "category": "Music & Culture",
+      "difficulty": "expert",
+      "definition": "New Orleans tradition combining solemn procession with celebratory jazz music.",
+      "etymology": "African-American tradition blending mourning with celebration",
+      "example": "Jazz funerals inspired the musical traditions seen in Mardi Gras parades."
+    },
+    {
+      "term": "Mardi Gras Indians",
+      "pronunciation": "MAR-dee GRAH IN-dee-anz",
+      "category": "Culture",
+      "difficulty": "expert",
+      "definition": "African American Carnival tradition featuring elaborate feathered costumes and tribal competitions.",
+      "etymology": "Tradition honoring Native Americans who helped enslaved people; dates to 1800s",
+      "example": "Mardi Gras Indian suits can take a year to create and cost thousands of dollars."
+    },
+    {
+      "term": "Big Chief",
+      "pronunciation": "BIG CHEEF",
+      "category": "Culture",
+      "difficulty": "expert",
+      "definition": "Leader of a Mardi Gras Indian tribe, wearing the most elaborate costume.",
+      "etymology": "Highest rank in Mardi Gras Indian tribal hierarchy",
+      "example": "The Big Chief's suit is the most spectacular, often taking all year to create."
+    },
+    {
+      "term": "Super Sunday",
+      "pronunciation": "SOO-per SUN-day",
+      "category": "Culture",
+      "difficulty": "expert",
+      "definition": "Annual gathering of Mardi Gras Indian tribes in mid-city New Orleans, usually in March.",
+      "etymology": "Super bowl of Mardi Gras Indian gatherings",
+      "example": "Super Sunday is when tribes showcase their new suits and compete for recognition."
+    },
+    {
+      "term": "Pontchartrain",
+      "pronunciation": "PON-char-trayn",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Mandeville-based krewe that parades on the North Shore of Lake Pontchartrain.",
+      "etymology": "Named after Lake Pontchartrain",
+      "example": "Pontchartrain brings Carnival celebrations to the communities north of New Orleans."
+    },
+    {
+      "term": "Krewe of Chaos",
+      "pronunciation": "KROO uv KAY-os",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Satirical krewe known for poking fun at current events and social issues.",
+      "etymology": "Named for the chaotic nature of their irreverent themes",
+      "example": "Chaos floats often feature clever commentary on the year's biggest news stories."
+    },
+    {
+      "term": "Krewe of Carrollton",
+      "pronunciation": "KROO uv KAIR-ol-ton",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Neighborhood krewe representing the Carrollton area of New Orleans.",
+      "etymology": "Named after the Carrollton neighborhood",
+      "example": "Carrollton celebrates local neighborhood pride with community-focused themes."
+    },
+    {
+      "term": "Krewe of Cleopatra",
+      "pronunciation": "KROO uv klee-oh-PAT-rah",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "All-female krewe known for Egyptian themes and elaborate costumes.",
+      "etymology": "Named after the famous Egyptian queen",
+      "example": "Cleopatra features stunning Egyptian-themed floats with golden decorations."
+    },
+    {
+      "term": "Krewe of Venus",
+      "pronunciation": "KROO uv VEE-nus",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "All-female super krewe founded in 2015, one of the newest major parades.",
+      "etymology": "Named after Roman goddess of love and beauty",
+      "example": "Venus quickly became popular for their high-energy parade and elaborate throws."
+    },
+    {
+      "term": "Krewe of Spartacus",
+      "pronunciation": "KROO uv SPAR-tah-kus",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Metairie-based krewe known for Roman themes and suburban parade routes.",
+      "etymology": "Named after the famous Roman gladiator",
+      "example": "Spartacus brings Carnival celebration to the suburbs with family-friendly themes."
+    },
+    {
+      "term": "Krewe of Alla",
+      "pronunciation": "KROO uv AL-lah",
+      "category": "Krewes",
+      "difficulty": "expert",
+      "definition": "Traditional krewe founded in 1947, known for elaborate Arabian Nights themes.",
+      "etymology": "From Allah, relating to Arabian and Middle Eastern themes",
+      "example": "Alla creates magical Arabian fantasy worlds on their beautifully crafted floats."
+    },
+    {
+      "term": "Krewe of Babylon",
+      "pronunciation": "KROO uv BAB-ih-lon",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Uptown krewe known for historical and biblical themes in their parades.",
+      "etymology": "Named after the ancient city of Babylon",
+      "example": "Babylon often recreates ancient civilizations and historical events on their floats."
+    },
+    {
+      "term": "Krewe of Caesar",
+      "pronunciation": "KROO uv SEE-zer",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Metairie krewe founded in 1971, featuring Roman and classical themes.",
+      "etymology": "Named after Julius Caesar",
+      "example": "Caesar brings the grandeur of ancient Rome to suburban parade routes."
+    },
+    {
+      "term": "Krewe of Cork",
+      "pronunciation": "KROO uv KORK",
+      "category": "Krewes",
+      "difficulty": "expert",
+      "definition": "Irish-themed krewe celebrating New Orleans' Irish heritage with traditional music and culture.",
+      "etymology": "Named after Cork, Ireland",
+      "example": "Krewe of Cork honors the Irish Channel neighborhood's cultural heritage."
+    },
+    {
+      "term": "Krewe of Mid-City",
+      "pronunciation": "KROO uv MID SIT-ee",
+      "category": "Krewes",
+      "difficulty": "local",
+      "definition": "Neighborhood krewe representing the Mid-City area, known for community involvement.",
+      "etymology": "Named after the Mid-City neighborhood",
+      "example": "Krewe of Mid-City celebrates local neighborhood pride and community spirit."
+    },
+    {
+      "term": "Plush Throws",
+      "pronunciation": "PLUSH THROHZ",
+      "category": "Throws",
+      "difficulty": "local",
+      "definition": "Soft stuffed animals and fabric items thrown from floats, especially popular with children.",
+      "etymology": "From plush fabric used in stuffed animals",
+      "example": "Plush throws include everything from teddy bears to krewe-themed characters."
+    },
+    {
+      "term": "Krewe Signature Cups",
+      "pronunciation": "KROO SIG-nah-chur KUPS",
+      "category": "Throws",
+      "difficulty": "local",
+      "definition": "Specially designed cups unique to each krewe, often featuring artwork and logos.",
+      "etymology": "Cups that serve as signatures or calling cards for specific krewes",
+      "example": "Bacchus signature cups often feature celebrity monarchs and wine themes."
+    },
+    {
+      "term": "Vintage Throws",
+      "pronunciation": "VIN-tij THROHZ",
+      "category": "Throws",
+      "difficulty": "expert",
+      "definition": "Collectible throws from past decades, highly valued by serious collectors.",
+      "etymology": "Throws that have gained vintage status with age",
+      "example": "Vintage throws from the 1960s and 1970s can be worth hundreds of dollars."
+    },
+    {
+      "term": "Krewe Medallions",
+      "pronunciation": "KROO meh-DAL-yonz",
+      "category": "Throws",
+      "difficulty": "local",
+      "definition": "Large decorative medallions featuring krewe emblems, more valuable than regular beads.",
+      "etymology": "Large medallions displaying krewe identity and pride",
+      "example": "Krewe medallions are prized catches that showcase elaborate krewe artwork."
+    },
+    {
+      "term": "Football Throws",
+      "pronunciation": "FOOT-bawl THROHZ",
+      "category": "Throws",
+      "difficulty": "tourist",
+      "definition": "Small foam footballs thrown from floats, popular in sports-themed parades.",
+      "etymology": "Incorporating American football into Carnival throws",
+      "example": "Football throws are especially common during parades that coincide with NFL playoffs."
+    },
+    {
+      "term": "Bananas Foster Bread Pudding",
+      "pronunciation": "bah-NAN-az FOS-ter BRED POOD-ing",
+      "category": "Food & Drink",
+      "difficulty": "local",
+      "definition": "Fusion dessert combining two New Orleans classics into one indulgent treat.",
+      "etymology": "Combining bananas foster with bread pudding traditions",
+      "example": "This dessert mashup represents the creative spirit of New Orleans cuisine."
+    },
+    {
+      "term": "Audubon Park",
+      "pronunciation": "AW-duh-bon PARK",
+      "category": "Locations",
+      "difficulty": "local",
+      "definition": "Uptown park near Tulane and Loyola universities, popular for pre-parade gatherings.",
+      "etymology": "Named after naturalist John James Audubon",
+      "example": "Audubon Park is perfect for tailgating before parades roll down St. Charles Avenue."
+    },
+    {
+      "term": "Convention Center",
+      "pronunciation": "kon-VEN-shun SEN-ter",
+      "category": "Locations",
+      "difficulty": "local",
+      "definition": "Large venue hosting Carnival balls and events during Mardi Gras season.",
+      "etymology": "Ernest N. Morial Convention Center",
+      "example": "Many major krewe balls take place at the Convention Center during Carnival season."
+    },
+    {
+      "term": "Algiers",
+      "pronunciation": "al-JEERZ",
+      "category": "Locations",
+      "difficulty": "expert",
+      "definition": "West Bank neighborhood of New Orleans with its own Carnival celebrations.",
+      "etymology": "Named for its location across the river, like Algiers across from France",
+      "example": "Algiers hosts smaller, community-focused Carnival parades and events."
+    },
+    {
+      "term": "Drum Lines",
+      "pronunciation": "DRUM LIENZ",
+      "category": "Music & Culture",
+      "difficulty": "local",
+      "definition": "Percussion-only groups that provide rhythmic accompaniment to parades.",
+      "etymology": "Lines of drummers performing together",
+      "example": "Drum lines create powerful rhythmic energy that gets crowds dancing."
+    },
+    {
+      "term": "Carnival Songs",
+      "pronunciation": "KAHR-nih-val SONGZ",
+      "category": "Music & Culture",
+      "difficulty": "local",
+      "definition": "Traditional and modern songs associated with Mardi Gras celebrations.",
+      "etymology": "Songs specifically connected to Carnival traditions",
+      "example": "Carnival songs range from classical pieces to contemporary bounce music."
+    },
+    {
+      "term": "Costume Contests",
+      "pronunciation": "KOS-toom KON-tests",
+      "category": "Culture",
+      "difficulty": "tourist",
+      "definition": "Competitions judging the best Mardi Gras costumes worn by participants.",
+      "etymology": "Contests celebrating costume creativity and craftsmanship",
+      "example": "Costume contests encourage elaborate and creative outfits during Carnival."
+    },
+    {
+      "term": "Face Painting",
+      "pronunciation": "FAYS PAYNT-ing",
+      "category": "Culture",
+      "difficulty": "tourist",
+      "definition": "Body art service popular during Mardi Gras, especially for children.",
+      "etymology": "Decorative painting applied to faces",
+      "example": "Face painting booths are popular attractions at family-friendly Carnival events."
+    },
+    {
+      "term": "Krewe Formation",
+      "pronunciation": "KROO for-MAY-shun",
+      "category": "Culture",
+      "difficulty": "expert",
+      "definition": "Process of establishing a new Carnival organization with all required elements.",
+      "etymology": "Formation of organized groups for Carnival participation",
+      "example": "Krewe formation involves significant planning, funding, and community coordination."
+    },
+    {
+      "term": "Carnival Etiquette",
+      "pronunciation": "KAHR-nih-val ET-ih-ket",
+      "category": "Culture",
+      "difficulty": "local",
+      "definition": "Unwritten rules and proper behavior for participating in Carnival celebrations.",
+      "etymology": "Proper behavior and manners for Carnival participation",
+      "example": "Carnival etiquette includes respecting others' space and not grabbing for throws."
+    },
+    {
+      "term": "Carnival Photography",
+      "pronunciation": "KAHR-nih-val foh-TOG-rah-fee",
+      "category": "Culture",
+      "difficulty": "local",
+      "definition": "Art and practice of capturing Mardi Gras celebrations in photographs.",
+      "etymology": "Photography focused on Carnival subjects and events",
+      "example": "Carnival photography preserves memories and documents the evolution of traditions."
+    },
+    {
+      "term": "Mardi Gras Decorations",
+      "pronunciation": "MAR-dee GRAH dek-oh-RAY-shunz",
+      "category": "Culture",
+      "difficulty": "tourist",
+      "definition": "Purple, gold, and green ornaments used to decorate homes and businesses during Carnival.",
+      "etymology": "Decorative items in traditional Carnival colors",
+      "example": "Mardi Gras decorations transform the entire city into a festive celebration."
+    },
+    {
+      "term": "Down the Road",
+      "pronunciation": "DOWN thuh ROHD",
+      "category": "Local Slang",
+      "difficulty": "expert",
+      "definition": "New Orleans phrase meaning 'later' or 'in the future.'",
+      "etymology": "Local expression for temporal distance",
+      "example": "We'll catch up down the road after Carnival season ends."
+    },
+    {
+      "term": "Parade Marshals",
+      "pronunciation": "pah-RADE MAR-shalz",
+      "category": "Parades",
+      "difficulty": "local",
+      "definition": "Officials who help organize and control parade logistics and safety.",
+      "etymology": "Marshals assigned to parade organization and control",
+      "example": "Parade marshals coordinate with police to ensure smooth float movement."
+    },
+    {
+      "term": "Float Lieutenants",
+      "pronunciation": "FLOHT loo-TEN-ants",
+      "category": "Parades",
+      "difficulty": "expert",
+      "definition": "Krewe officers responsible for individual float operations and rider coordination.",
+      "etymology": "Military rank structure applied to float organization",
+      "example": "Float lieutenants ensure riders have enough throws and maintain safety protocols."
+    },
+    {
+      "term": "Parade Timing",
+      "pronunciation": "pah-RADE TIE-ming",
+      "category": "Parades",
+      "difficulty": "local",
+      "definition": "Scheduled start times and estimated duration for each parade.",
+      "etymology": "Time management for parade logistics",
+      "example": "Parade timing can vary significantly based on crowd size and weather conditions."
+    },
+    {
+      "term": "Float Spacing",
+      "pronunciation": "FLOHT SPAY-sing",
+      "category": "Parades",
+      "difficulty": "expert",
+      "definition": "Distance maintained between floats for safety and optimal crowd viewing.",
+      "etymology": "Strategic spacing of parade elements",
+      "example": "Proper float spacing prevents accidents and gives spectators time to see each float."
+    },
+    {
+      "term": "Cleanup Crew",
+      "pronunciation": "KLEEN-up KROO",
+      "category": "Parades",
+      "difficulty": "local",
+      "definition": "Teams that follow parades to clean up throws and debris from the streets.",
+      "etymology": "Necessity for post-parade street maintenance",
+      "example": "Cleanup crews work through the night to clear parade routes for the next day's celebrations."
+    },
+    {
+      "term": "Portable Toilets",
+      "pronunciation": "PORT-ah-bul TOY-lets",
+      "category": "Viewing",
+      "difficulty": "tourist",
+      "definition": "Temporary restroom facilities placed along parade routes for public use.",
+      "etymology": "Portable facilities for temporary sanitation needs",
+      "example": "Portable toilets are essential infrastructure for long parade viewing sessions."
+    },
+    {
+      "term": "Lost and Found",
+      "pronunciation": "LOST and FOWND",
+      "category": "Viewing",
+      "difficulty": "tourist",
+      "definition": "Services helping reunite people with lost items or separated family members.",
+      "etymology": "Service for recovering lost possessions or people",
+      "example": "Lost and found stations are crucial during crowded Carnival celebrations."
+    },
+    {
+      "term": "Parking Passes",
+      "pronunciation": "PARK-ing PAS-ez",
+      "category": "Tourism",
+      "difficulty": "local",
+      "definition": "Special permits allowing parking in restricted areas during parades.",
+      "etymology": "Necessity due to street closures during parades",
+      "example": "Parking passes for parade days must be purchased well in advance."
+    },
+    {
+      "term": "Parade Watching Spots",
+      "pronunciation": "pah-RADE WACH-ing SPOTS",
+      "category": "Tourism",
+      "difficulty": "tourist",
+      "definition": "Prime locations along parade routes known for good views and crowd energy.",
+      "etymology": "Designated areas that provide optimal parade viewing",
+      "example": "Local guides know the best parade watching spots that avoid the biggest crowds."
+    }
+  ]
+}
